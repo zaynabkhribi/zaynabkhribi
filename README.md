@@ -292,7 +292,6 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 ---
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
 <h2 align="center">🐍 My Contribution Journey</h2>
 
@@ -302,66 +301,29 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation"
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
       src="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake.svg"
-      width="100%"/>
+      width="100%"
+    />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Every%20Commit-A%20Step%20Forward-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="Every Commit Counts"/>
+  <img
+    src="https://img.shields.io/badge/Every%20Commit-A%20Step%20Forward-EF93C4?style=for-the-badge&logo=github&logoColor=white"
+    alt="Every Commit Counts"
+  />
 </p>
 
-<!--
-GITHUB ACTION SETUP:
-
-Create this file:
-.github/workflows/snake.yml
-
-Paste the following workflow:
-
-name: Generate Contribution Snake 🐍
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: zaynabkhribi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Enable GitHub Actions and workflow write permissions.
-Run the workflow manually once to create the output branch.
--->
-
----
 
 <!-- ==================== SOCIAL LINKS ==================== -->
 
