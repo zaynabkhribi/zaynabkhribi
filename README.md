@@ -189,12 +189,13 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 ---
 
+
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
 <h2 align="center">🌷 Featured Projects</h2>
 
 <p align="center">
-  <em>Some of the projects I've built, explored, and contributed to. 💗</em>
+  <em>Some of my favorite projects, built with curiosity and passion. 💗</em>
 </p>
 
 <table align="center" border="0">
@@ -203,18 +204,17 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 ### 🎀 Bipolar Disorder Detection
 
-<a href="https://github.com/zaynabkhribi/Bipolar-Disorder-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=Bipolar-Disorder-Detection&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="Bipolar Disorder Detection"/>
+<a href="https://github.com/zaynabkhribi/biplar_disorder_detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=biplar_disorder_detection&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="Bipolar Disorder Detection"/>
 </a>
 
 </td>
-
 <td width="50%" align="center">
 
 ### 🌸 Islamic Spotify
 
-<a href="https://github.com/zaynabkhribi/Islamic-Spotify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=Islamic-Spotify&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="Islamic Spotify"/>
+<a href="https://github.com/zaynabkhribi/islamic_spotify">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=islamic_spotify&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="Islamic Spotify"/>
 </a>
 
 </td>
@@ -225,18 +225,17 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 ### 💻 NerdySpace
 
-<a href="https://github.com/zaynabkhribi/NerdySpace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=NerdySpace&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="NerdySpace"/>
+<a href="https://github.com/zaynabkhribi/NerdySpace_Angular">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=NerdySpace_Angular&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="NerdySpace"/>
 </a>
 
 </td>
-
 <td width="50%" align="center">
 
 ### 🤖 Glucoguide
 
-<a href="https://github.com/zaynabkhribi/Glucoguide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=Glucoguide&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="Glucoguide"/>
+<a href="https://github.com/zaynabkhribi/glucoguide_flutter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=glucoguide_flutter&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="Glucoguide"/>
 </a>
 
 </td>
@@ -245,7 +244,7 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 <p align="center">
   <a href="https://github.com/zaynabkhribi?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
   </a>
 </p>
 
