@@ -194,9 +194,7 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 <h2 align="center">🌷 Featured Projects</h2>
 
 <p align="center">
-  <em>A selection of projects, experiments, and things I've been working on.</em>
-  <br/>
-  <em>Building ideas, solving problems, and learning through code. 💗</em>
+  <em>Some of the projects I've built, explored, and contributed to. 💗</em>
 </p>
 
 <table align="center" border="0">
@@ -205,22 +203,19 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 ### 🎀 Bipolar Disorder Detection
 
-<a href="[https://github.com/zaynabkhribi/PROJECT-ONE](https://github.com/zaynabkhribi/biplar_disorder_detection.git)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=PROJECT-ONE&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Project One"/>
+<a href="https://github.com/zaynabkhribi/Bipolar-Disorder-Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=Bipolar-Disorder-Detection&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="Bipolar Disorder Detection"/>
 </a>
 
-<em>Replace with your project description.</em>
-
 </td>
+
 <td width="50%" align="center">
 
 ### 🌸 Islamic Spotify
 
-<a href="[https://github.com/zaynabkhribi/PROJECT-TWO](https://github.com/zaynabkhribi/islamic_spotify.git)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=PROJECT-TWO&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Project Two"/>
+<a href="https://github.com/zaynabkhribi/Islamic-Spotify">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=Islamic-Spotify&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="Islamic Spotify"/>
 </a>
-
-<em>Replace with your project description.</em>
 
 </td>
 </tr>
@@ -230,22 +225,19 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 ### 💻 NerdySpace
 
-<a href="[https://github.com/zaynabkhribi/PROJECT-THREE](https://github.com/zaynabkhribi/NerdySpace_Angular.git)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=PROJECT-THREE&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Project Three"/>
+<a href="https://github.com/zaynabkhribi/NerdySpace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=NerdySpace&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="NerdySpace"/>
 </a>
 
-<em>Replace with your project description.</em>
-
 </td>
+
 <td width="50%" align="center">
 
 ### 🤖 Glucoguide
 
-<a href="[https://github.com/zaynabkhribi/PROJECT-FOUR](https://github.com/zaynabkhribi/glucoguide_flutter.git)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=PROJECT-FOUR&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Project Four"/>
+<a href="https://github.com/zaynabkhribi/Glucoguide">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=Glucoguide&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="100%" alt="Glucoguide"/>
 </a>
-
-<em>Replace with your project description.</em>
 
 </td>
 </tr>
@@ -253,7 +245,7 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 <p align="center">
   <a href="https://github.com/zaynabkhribi?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
   </a>
 </p>
 
