@@ -22,7 +22,17 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineering+Student+%F0%9F%8E%93;Passionate+About+Artificial+Intelligence+%F0%9F%A4%96;Turning+Data+Into+Insights+%F0%9F%93%8A;Community+Leader+%26+Tech+Enthusiast+%F0%9F%92%97;Always+Learning%2C+Building+%26+Growing+%E2%9C%A8" alt="Typing SVG"/>
 </h3>
+<!-- ==================== QUICK LINKS ==================== -->
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaynab-khribi-644414333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1q0_jQ-bHbq6IKquyskKISZj0X7fDn4U8/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-View%20Resume-FF69B4?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=1A1B27" alt="My CV"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/zaynabkhribi">
     <img src="https://img.shields.io/github/followers/zaynabkhribi?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1A1B27&logo=github&logoColor=white" alt="Followers"/>
