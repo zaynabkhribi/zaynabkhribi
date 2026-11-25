@@ -1,9 +1,13 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ZAYNAB KHRIBI                            -->
-<!--                   GITHUB PROFILE README                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--
+╔══════════════════════════════════════════════════════════╗
+║                    ZAYNAB KHRIBI                          ║
+║                   GITHUB PROFILE                          ║
+║                                                          ║
+║               AI & DATA SCIENCE ENGINEER                  ║
+╚══════════════════════════════════════════════════════════╝
+-->
 
-<!-- HERO BANNER -->
+<!-- ==================== HERO BANNER ==================== -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:EF93C4,50:F8BBD0,100:FF69B4&text=Zaynab%20Khribi&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descSize=17&descAlignY=60">
@@ -11,7 +15,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:EF93C4,50:F8BBD0,100:FF69B4&text=Zaynab%20Khribi&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descSize=17&descAlignY=60" alt="Zaynab Khribi Banner"/>
 </picture>
 
-<!-- INTRODUCTION -->
+<!-- ==================== INTRODUCTION ==================== -->
 
 <h1 align="center">Hey there, I'm Zaynab Khribi 👋</h1>
 
@@ -30,14 +34,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-EF93C4?style=flat-square&logo=academia&logoColor=white" alt="AI and Data Science"/>
-  <img src="https://img.shields.io/badge/Community-Leadership-F8BBD0?style=flat-square&logo=handshake&logoColor=white" alt="Community Leadership"/>
-  <img src="https://img.shields.io/badge/Location-Tunisia-FF69B4?style=flat-square&logo=googlemaps&logoColor=white" alt="Tunisia"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-EF93C4?style=flat-square&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Community-Leadership-F8BBD0?style=flat-square&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Tunisia-FF69B4?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 ---
 
-<!-- ABOUT ME -->
+<!-- ==================== ABOUT ME ==================== -->
 
 <h2 align="center">🌸 About Me</h2>
 
@@ -87,7 +91,7 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 ---
 
-<!-- TECH STACK -->
+<!-- ==================== TECH STACK ==================== -->
 
 <h2 align="center">🛠️ Tech Stack & Technologies</h2>
 
@@ -102,8 +106,8 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
 </p>
 
 <h3 align="center">🌐 Frontend Development</h3>
@@ -119,9 +123,8 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" alt="Node RED"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 <h3 align="center">🗄️ Databases & Data Management</h3>
@@ -131,9 +134,9 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 </p>
 
 <h3 align="center">🤖 AI, Machine Learning & Data Science</h3>
@@ -143,13 +146,13 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit Learn"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 </p>
 
 <h3 align="center">📡 Big Data & Distributed Systems</h3>
@@ -165,10 +168,10 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 </p>
 
 <h3 align="center">🎨 Design & Productivity</h3>
@@ -178,15 +181,85 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" alt="Nodemon"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white"/>
 </p>
 
 ---
 
-<!-- GITHUB STATISTICS -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+<h2 align="center">🌷 Featured Projects</h2>
+
+<p align="center">
+  <em>A selection of projects, experiments, and things I've been working on.</em>
+  <br/>
+  <em>Building ideas, solving problems, and learning through code. 💗</em>
+</p>
+
+<table align="center" border="0">
+<tr>
+<td width="50%" align="center">
+
+### 🎀 Bipolar Disorder Detection
+
+<a href="[https://github.com/zaynabkhribi/PROJECT-ONE](https://github.com/zaynabkhribi/biplar_disorder_detection.git)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=PROJECT-ONE&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Project One"/>
+</a>
+
+<em>Replace with your project description.</em>
+
+</td>
+<td width="50%" align="center">
+
+### 🌸 Islamic Spotify
+
+<a href="[https://github.com/zaynabkhribi/PROJECT-TWO](https://github.com/zaynabkhribi/islamic_spotify.git)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=PROJECT-TWO&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Project Two"/>
+</a>
+
+<em>Replace with your project description.</em>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 💻 NerdySpace
+
+<a href="[https://github.com/zaynabkhribi/PROJECT-THREE](https://github.com/zaynabkhribi/NerdySpace_Angular.git)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=PROJECT-THREE&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Project Three"/>
+</a>
+
+<em>Replace with your project description.</em>
+
+</td>
+<td width="50%" align="center">
+
+### 🤖 Glucoguide
+
+<a href="[https://github.com/zaynabkhribi/PROJECT-FOUR](https://github.com/zaynabkhribi/glucoguide_flutter.git)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaynabkhribi&repo=PROJECT-FOUR&theme=dark&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Project Four"/>
+</a>
+
+<em>Replace with your project description.</em>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/zaynabkhribi?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
+</p>
+
+---
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -194,13 +267,11 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
   <em>A glimpse into my coding journey and contributions. 💗</em>
 </p>
 
-<div align="center">
-
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zaynabkhribi&show_icons=true&hide_border=true&bg_color=1A1B27&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynabkhribi&layout=compact&hide_border=true&bg_color=1A1B27&title_color=EF93C4&text_color=F8BBD0&langs_count=10" alt="Top Languages"/>
-
-</div>
+</p>
 
 <br/>
 
@@ -220,34 +291,39 @@ Artificial Intelligence • Data Science • Technology • Leadership • Commu
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 My Contribution Journey</h2>
 
 <p align="center">
-  <em>Every contribution tells a story. Let's keep growing! 🌸</em>
+  <em>Every commit, every contribution, every little step counts! 🌸</em>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/zaynabkhribi/zaynabkhribi/output/github-contribution-grid-snake.svg"
+      width="100%"/>
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Every%20Commit-A%20Step%20Forward-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="Every Commit Counts"/>
+</p>
+
 <!--
-╔══════════════════════════════════════════════════════════════╗
-║                  CONTRIBUTION SNAKE ACTION                   ║
-╚══════════════════════════════════════════════════════════════╝
+GITHUB ACTION SETUP:
 
 Create this file:
-
 .github/workflows/snake.yml
 
-Add the following workflow:
+Paste the following workflow:
 
-name: Generate Contribution Snake
+name: Generate Contribution Snake 🐍
 
 on:
   schedule:
@@ -263,10 +339,8 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Generate Snake
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: zaynabkhribi
@@ -274,7 +348,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to Output Branch
+      - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -282,13 +356,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-Enable GitHub Actions and run the workflow manually once.
-The generated SVG files will be published to the output branch.
+Enable GitHub Actions and workflow write permissions.
+Run the workflow manually once to create the output branch.
 -->
 
 ---
 
-<!-- SOCIAL LINKS -->
+<!-- ==================== SOCIAL LINKS ==================== -->
 
 <h2 align="center">💌 Let's Connect!</h2>
 
@@ -326,7 +400,7 @@ The generated SVG files will be published to the output branch.
 
 ---
 
-<!-- RANDOM DEV QUOTE -->
+<!-- ==================== RANDOM QUOTE ==================== -->
 
 <h2 align="center">✍️ A Little Inspiration</h2>
 
@@ -340,7 +414,7 @@ The generated SVG files will be published to the output branch.
 
 ---
 
-<!-- FOOTER -->
+<!-- ==================== FOOTER ==================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=130&section=footer&animation=fadeIn" width="100%" alt="Pink Waving Footer"/>
